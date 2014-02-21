@@ -12,7 +12,6 @@
 #include "unistd.h"
 
 Chip8 chip8;
-Screen screen;
 
 int main(int argc, const char * argv[])
 {
