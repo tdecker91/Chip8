@@ -8,7 +8,6 @@
 
 #include <iostream>
 #include "Chip8.h"
-#include "Screen.h"
 #include "unistd.h"
 
 Chip8 chip8;
